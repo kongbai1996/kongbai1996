@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
+![Rust](https://img.shields.io/badge/-rust-000000?style=flat&logo=rust&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
